@@ -1,0 +1,101 @@
+id,first_name,age,gender,job,salary,credit card,car
+1,Jaimie,48,Male,Payment Adjustment Coordinator,30550,instapayment,
+2,Fidelio,,Male,Marketing Assistant,35313,switch,Lincoln
+3,Bel,70,Female,Senior Editor,41395,,Volvo
+4,Walther,,Male,Automation Specialist III,39315,china-unionpay,Mazda
+5,Shaine,46,Non-binary,,47798,jcb,Honda
+6,Gerard,15,Male,Associate Professor,21661,mastercard,Lexus
+7,Saunder,,Agender,Financial Analyst,,jcb,
+8,Maxim,,Male,General Manager,,jcb,Chrysler
+9,Thorndike,76,Male,Chief Design Engineer,38078,jcb,Acura
+10,Falkner,,Male,,39823,jcb,Ford
+11,Nichole,,,Computer Systems Analyst III,37138,jcb,Lexus
+12,Albertina,44,Female,Account Coordinator,29211,instapayment,Porsche
+13,Dena,,Female,Media Manager I,42030,jcb,Ford
+14,Hershel,17,Male,Safety Technician I,,jcb,Ford
+15,Chrisse,,Male,Computer Systems Analyst I,21015,,Isuzu
+16,Bari,34,Female,Business Systems Development Analyst,38188,visa-electron,
+17,,58,Male,Nuclear Power Engineer,45667,americanexpress,Kia
+18,Livy,,Female,Dental Hygienist,30314,diners-club-carte-blanche,Chrysler
+19,Wendie,36,Female,Desktop Support Technician,48713,jcb,Chevrolet
+20,Luther,,Male,Compensation Analyst,30389,jcb,Lotus
+21,,,Male,Database Administrator III,,jcb,Volvo
+22,Alia,,Female,Statistician IV,25214,jcb,Lincoln
+23,Frederik,41,,Quality Engineer,38641,jcb,Ford
+24,Miller,,Male,Dental Hygienist,37220,mastercard,Acura
+25,Arluene,,Female,Actuary,22896,jcb,Spyker
+,Pammy,,Female,Social Worker,27358,jcb,GMC
+27,Emanuel,22,Male,Help Desk Operator,38050,maestro,McLaren
+28,Gunther,49,Male,Analyst Programmer,20316,mastercard,
+29,Florri,45,Female,Quality Engineer,42260,jcb,Lincoln
+30,Mendie,36,Male,Paralegal,32802,china-unionpay,Honda
+,Mame,,Female,Structural Analysis Engineer,42622,americanexpress,Chevrolet
+32,Deerdre,,,Chief Design Engineer,31145,diners-club-enroute,Pontiac
+,Rabbi,,Genderqueer,Web Designer II,45960,maestro,
+34,Biron,,Male,Administrative Officer,43819,mastercard,Mercedes-Benz
+35,Levon,68,,,48618,,Mazda
+36,Sayre,,Male,,41792,jcb,Hyundai
+37,Dulcea,34,,Marketing Assistant,24287,jcb,Subaru
+38,Miran,,Female,VP Sales,26831,jcb,
+39,Minor,,Male,Professor,22905,,Lincoln
+,Kizzie,18,Agender,Data Coordinator,21400,maestro,Buick
+41,Neala,74,Female,Biostatistician II,39420,,Lincoln
+42,Falkner,36,,Web Designer IV,43270,,Buick
+43,Cly,,Male,,31657,,Chevrolet
+44,Sayre,,Bigender,Financial Analyst,37382,bankcard,GMC
+,Guthrey,30,Male,Quality Control Specialist,39043,jcb,
+46,Sapphire,,,Analyst Programmer,33081,mastercard,
+47,Cullen,63,Genderfluid,Senior Developer,37345,jcb,
+48,Rebecca,35,Female,,49868,mastercard,Volvo
+49,Parker,,Male,Editor,31285,jcb,
+50,Jacklin,,Female,Assistant Media Planner,33709,jcb,Honda
+51,Kizzie,,,,39541,diners-club-carte-blanche,Maserati
+52,Cord,,Male,Registered Nurse,41242,jcb,Cadillac
+,Johnny,52,,Help Desk Operator,40452,jcb,Lincoln
+54,,61,Female,,32848,visa-electron,Toyota
+,Rebeca,,Agender,Electrical Engineer,,jcb,Toyota
+56,Mickie,,,Programmer III,47877,laser,Land Rover
+57,Cozmo,,Genderqueer,Speech Pathologist,,maestro,
+58,Simone,17,,VP Sales,27607,,Toyota
+59,Reiko,37,Female,Editor,35868,jcb,Saturn
+60,Son,,Male,Account Coordinator,37509,jcb,Mercedes-Benz
+61,Dannel,,Male,Account Representative II,39162,maestro,GMC
+62,Clare,52,,,28904,diners-club-carte-blanche,Mazda
+63,,,Male,Assistant Manager,39878,,Chevrolet
+64,Gracie,72,Female,Environmental Specialist,25723,instapayment,Dodge
+65,Katya,36,Female,Geologist II,35229,jcb,Toyota
+66,Norry,60,Male,Compensation Analyst,,jcb,Dodge
+67,Miof mela,,,Community Outreach Specialist,44815,jcb,
+,Inesita,44,Female,Software Test Engineer IV,42724,diners-club-enroute,Mercury
+69,Myron,21,Male,Sales Representative,30031,switch,Jaguar
+70,Giuditta,21,Female,Technical Writer,33844,,Chevrolet
+71,,38,Genderqueer,Statistician III,39655,jcb,Nissan
+72,Amii,66,Female,Junior Executive,23924,jcb,Audi
+73,Rhianon,,Female,Professor,46668,visa,Aston Martin
+74,Isaak,16,,Project Manager,48250,switch,Volkswagen
+75,Winifield,,Genderqueer,Food Chemist,,visa-electron,Volkswagen
+76,Wang,69,Genderqueer,,41877,maestro,Pontiac
+77,Dalton,,,Senior Quality Engineer,44767,maestro,Cadillac
+78,Felicdad,55,Non-binary,Chief Design Engineer,29481,jcb,Chevrolet
+79,Susanne,52,,Geologist III,37508,,
+80,Ikey,,Male,VP Product Management,43223,solo,Porsche
+81,Madelaine,38,Female,Assistant Media Planner,33288,jcb,
+,Everard,,Male,Research Nurse,40958,mastercard,Volkswagen
+83,Scottie,,Male,Software Consultant,25814,,Ford
+84,Angelica,27,Genderfluid,Legal Assistant,,switch,Audi
+,,70,,,27834,diners-club-carte-blanche,Lexus
+86,,,Polygender,Systems Administrator I,47088,diners-club-carte-blanche,
+87,Missy,27,Female,Account Executive,29911,jcb,BMW
+88,Lazaro,,Male,Pharmacist,37301,jcb,Ford
+89,Earvin,69,Male,Account Coordinator,,jcb,
+90,Frederigo,,Male,Financial Analyst,34365,jcb,
+91,Kingsley,,Male,Nurse,37044,china-unionpay,Suzuki
+92,Arman,67,Male,Quality Engineer,39022,jcb,Lincoln
+93,Beulah,44,Agender,VP Sales,24249,diners-club-enroute,Mazda
+94,Kimbell,,,Research Assistant III,27863,jcb,Jeep
+95,Cosme,27,Male,Automation Specialist I,,jcb,Kia
+96,,,Male,Community Outreach Specialist,28744,bankcard,Dodge
+97,Terrill,44,Male,Staff Scientist,23514,jcb,Volvo
+98,Nana,,Female,Database Administrator II,34025,diners-club-carte-blanche,Chrysler
+99,Sisile,,Female,Assistant Media Planner,48809,mastercard,
+100,Doll,,Female,Business Systems Development Analyst,20820,mastercard,Ford
